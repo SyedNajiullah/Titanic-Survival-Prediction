@@ -27,15 +27,13 @@ The core of the project is contained within four Jupyter Notebooks, each focusin
 ## ✅ How to Run
 
 1.  **Clone the repository:**
+
     ```bash
     git clone [YOUR_REPOSITORY_LINK]
     cd [YOUR_PROJECT_FOLDER]
     ```
-2.  **Launch Jupyter:**
-    ```bash
-    jupyter notebook
-    ```
-3.  Open and execute the cells in the notebooks (`.ipynb` files) to reproduce the analysis.
+
+2.  Open and execute the cells in the notebooks (`.ipynb` files) to reproduce the analysis.
 
 ---
 

@@ -16,6 +16,7 @@ This project is a **Supervised Machine Learning Classification Algorithms**. The
 The core of the project is contained within four Jupyter Notebooks, each focusing on one algorithm:
 
 | File Name | Description |
+| :---: | :---: | :---: | :---: | :---: |
 | `KNN.ipynb` | Implementation and evaluation of the **K-Nearest Neighbors** classifier. |
 | `LogicticRegression.ipynb` | Implementation and evaluation of the **Logistic Regression** classifier. |
 | `Naive_Bayes.ipynb` | Implementation and evaluation of the **Gaussian Naive Bayes** classifier. |

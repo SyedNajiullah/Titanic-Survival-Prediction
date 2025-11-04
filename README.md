@@ -1,10 +1,10 @@
 # Titanic-Survival-Prediction
 
-## 🧾 Project Overview
+### 🧾 Project Overview
 
 This project is a **Supervised Machine Learning Classification Algorithms**. The goal is to implement, train, and evaluate these models on a common classification task to determine the best-performing algorithm for the chosen dataset.
 
-## 🔐 Algorithms Implemented
+### 🔐 Algorithms Implemented
 
 - **K-Nearest Neighbors (KNN)**
 - **Logistic Regression**
@@ -13,7 +13,7 @@ This project is a **Supervised Machine Learning Classification Algorithms**. The
 
 ---
 
-## 📂 Project Structure & Usage
+### 📂 Project Structure & Usage
 
 The core of the project is contained within four Jupyter Notebooks, each focusing on one algorithm:
 
@@ -24,7 +24,7 @@ The core of the project is contained within four Jupyter Notebooks, each focusin
 |     `Naive_Bayes.ipynb`      |  Implementation and evaluation of the **Gaussian Naive Bayes** classifier.  |
 | `SupportVectorMachine.ipynb` | Implementation and evaluation of the **Support Vector Machine** classifier. |
 
-## ✅ How to Run
+### ✅ How to Run
 
 1.  **Clone the repository:**
 
@@ -37,12 +37,12 @@ The core of the project is contained within four Jupyter Notebooks, each focusin
 
 ---
 
-## 📊 Dataset & Preprocessing
+### 📊 Dataset & Preprocessing
 
 - **Dataset Used**: titanic dataset
 - **Source**: seaborn
 
-## Key Preprocessing Steps
+### Key Preprocessing Steps
 
 All models utilize a consistent set of preprocessing steps to ensure a fair comparison:
 
@@ -51,7 +51,7 @@ All models utilize a consistent set of preprocessing steps to ensure a fair comp
 
 ---
 
-## 📈 Model Performance Evaluation
+### 📈 Model Performance Evaluation
 
 This table summarizes the performance metrics of all four models on the **test set**.
 
@@ -64,6 +64,6 @@ This table summarizes the performance metrics of all four models on the **test s
 
 ---
 
-## 👇 Install required packages
+### 👇 Install required packages
 
 pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn
